@@ -10,12 +10,16 @@ let g:Powerline_symbols = 'fancy'
 " split resizing
 :map - <C-W><
 :map + <C-W>>
+
 "allow backspacing over everything in insert mode
 set backspace=indent,eol,start
+
 "store lots of :cmdline history
 set history=1000
+
 " use tab to jump windows..
 map <Tab> <C-w>w
+
 set showcmd     "show incomplete cmds down the bottom
 set showmode    "show current mode down the bottom
 
@@ -95,15 +99,12 @@ set hidden
 "set current dir to currentfile
 set autochdir
 
-""""""""""""""""""""""""""""""
-" => Status line
-" """"""""""""""""""""""""""""""
 " " Always show the status line
 set laststatus=2
 "
 " " Format the status line
 set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \
-" Line:\ %l
+
 " make buffer cycling available
 :nnoremap <C-n> :bnext<CR>
 :nnoremap <C-p> :bprevious<CR>
