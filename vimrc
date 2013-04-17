@@ -11,6 +11,8 @@ let g:Powerline_symbols = 'fancy'
 :map - <C-W><
 :map + <C-W>>
 
+"enable exrc
+set exrc
 "allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
@@ -95,9 +97,6 @@ colorscheme distinguished
 
 "hide buffers when not displayed
 set hidden
-
-"set current dir to currentfile
-set autochdir
 
 " " Always show the status line
 set laststatus=2

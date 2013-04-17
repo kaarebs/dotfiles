@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/kaarebs/www/propertymedia/Application/controllers'
+let g:netrw_dirhist_2='/home/kaarebs/www/tweaker2/Packages/Application/ArnsboMedia.VideoSystem.Base/Tests/Unit/Domain/Model'
+let g:netrw_dirhist_3='/home/kaarebs/www/poi/.git'
+let g:netrw_dirhist_4='/home/kaarebs/www/poi/Packages/Application/ArnsboMedia.ApmPoi'
