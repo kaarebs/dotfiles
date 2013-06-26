@@ -1,0 +1,7 @@
+project_name: voiceselector
+project_root: ~/www/voiceselector
+tabs:
+  - backendeditor: vim
+  - root:
+  - irb:  irb
+  - server: rails s

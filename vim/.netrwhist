@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/kaarebs/www/propertymedia/Application/controllers'
-let g:netrw_dirhist_2='/home/kaarebs/www/tweaker2/Packages/Application/ArnsboMedia.VideoSystem.Base/Tests/Unit/Domain/Model'
-let g:netrw_dirhist_3='/home/kaarebs/www/poi/.git'
-let g:netrw_dirhist_4='/home/kaarebs/www/poi/Packages/Application/ArnsboMedia.ApmPoi'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/cloudfiles-1.5.0.1'
+let g:netrw_dirhist_2='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/cloudfiles-1.5.0.1/lib'
+let g:netrw_dirhist_3='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/cloudfiles-1.5.0.1/lib/cloudfiles'
+let g:netrw_dirhist_4='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/rmagick-2.13.2'
+let g:netrw_dirhist_5='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/rmagick-2.13.2/lib'
+let g:netrw_dirhist_6='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/geocoder-1.1.8'
+let g:netrw_dirhist_7='/home/kaarebs/.rvm/gems/ruby-2.0.0-p0/gems/geocoder-1.1.8/examples'
+let g:netrw_dirhist_8='/home/kaarebs/.vim'
+let g:netrw_dirhist_9='/home/kaarebs/.tmuxinator'

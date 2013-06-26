@@ -1,0 +1,6 @@
+project_name: Web_watcher
+project_root: ~/Projects/web_watcher
+tabs:
+  - editor: vim
+  - irb: irb
+  - root:

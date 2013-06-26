@@ -1,0 +1,7 @@
+project_name: Systemet
+project_root: ~/www/systemet
+tabs:
+  - app-vim: cd Systemet; vim
+  - js-vim: cd SystemPublic/js; vim
+  - app-shell: cd Systemet
+  - js-shell: cd SystemPublic/js
