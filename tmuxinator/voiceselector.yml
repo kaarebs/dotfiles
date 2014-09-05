@@ -1,7 +1,6 @@
 project_name: voiceselector
-project_root: ~/www/voiceselector
-tabs:
+project_root: ~/Projects/voiceselector/app/frontend/admin
+windows:
   - backendeditor: vim
-  - root:
-  - irb:  irb
+  - grunt: grunt server
   - server: rails s

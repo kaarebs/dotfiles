@@ -1,9 +1,6 @@
-# ~/.tmuxinator/Systemet.yml
-# you can make as many tabs as you wish...
-
 project_name: Dendrrah
-project_root: ~/www/dendrrah
-tabs:
+project_root: ~/Projects/dendrrah
+windows:
   - editor: vim
   - irb: irb
   - root:

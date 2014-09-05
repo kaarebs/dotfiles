@@ -1,0 +1,5 @@
+project_name: renderclient
+project_root: ~/Projects/ruby-renderclient
+windows:
+  - editor: vim
+  - root:

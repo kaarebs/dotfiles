@@ -1,0 +1,5 @@
+project_name: awrassa
+project_root: ~/Projects/arwassa
+windows:
+  - editor: vim
+  - root:

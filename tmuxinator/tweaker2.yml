@@ -2,9 +2,8 @@
 # you can make as many tabs as you wish...
 
 project_name: Tweaker2
-project_root: ~/www/tweaker2
-tabs:
-  - backendeditor: vim
+project_root: ~/Projects/newtweaker2
+windows:
   - backend: cd Packages/Application/ && vim
   - root:
   - frontend: cd Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend

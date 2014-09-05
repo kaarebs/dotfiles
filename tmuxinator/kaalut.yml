@@ -1,0 +1,6 @@
+project_name: kaalut
+project_root: ~/Projects/kaalut
+windows:
+  - editor: vim
+  - irb: irb
+  - root:

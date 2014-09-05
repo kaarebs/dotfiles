@@ -2,7 +2,7 @@
 # you can make as many tabs as you wish...
 
 project_name: poi
-project_root: ~/www/poi
-tabs:
+project_root: ~/Projects/poi
+windows:
   - edit: cd Packages/Application/ && vim
   - root:

@@ -1,0 +1,6 @@
+project_name: voicearchiveclient
+project_root: ~/Projects/voicearchive_client
+tabs:
+  - editor: vim
+  - irb: irb
+  - root:
